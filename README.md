@@ -21,5 +21,5 @@
 
   |macro|description|status|
   |-|-|:-:|
-  |`expire date`|Will add in json web tokens|:waiting:|
+  |`expire date`|Will add in json web tokens|:speech_balloon:|
   |`data validation`|Request datas validation controls|:heavy_check_mark:|
